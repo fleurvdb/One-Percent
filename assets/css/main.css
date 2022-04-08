@@ -665,7 +665,7 @@ nav.mean-nav > ul > li:first-child > a {
 }
 
 .header-icons a {
-  color: #fff;
+  color: #000000;
   display: inline-block;
   padding: 10px;
 }
@@ -675,7 +675,7 @@ nav.mean-nav > ul > li:first-child > a {
 }
 
 .top-header-area.sepherate-header ul li > a, .top-header-area.sepherate-header .header-icons a {
-  color: #051922;
+  color: #000000;
 }
 
 nav.main-menu ul ul.sub-menu li {
@@ -710,7 +710,7 @@ nav.main-menu li a {
 }
 
 .top-header-area .header-icons a:hover {
-  color: #F28123;
+  color: #000000;
 }
 
 .sticky-wrapper {
