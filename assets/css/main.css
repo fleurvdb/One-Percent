@@ -479,7 +479,7 @@ a.boxed-btn, a.bordered-btn, a.cart-btn {
 }
 
 .breadcrumb-text p {
-  color: #F28123;
+  color: #000000;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 7px;
@@ -1220,7 +1220,7 @@ a.cart-btn {
 
 a.cart-btn:hover {
   background-color: #000000;
-  color: #D0CBB6;
+  color: #fff;
 }
 
 .recent-posts ul li {
@@ -2414,8 +2414,8 @@ p.product-price span {
 a.cart-btn {
   font-family: 'Poppins', sans-serif;
   display: inline-block;
-  background-color: #F28123;
-  color: #fff;
+  background-color: #ebdacc;
+  color: #000000;
   padding: 10px 20px;
 }
 
