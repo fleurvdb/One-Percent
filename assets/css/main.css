@@ -1220,7 +1220,7 @@ a.cart-btn {
 
 a.cart-btn:hover {
   background-color: #000000;
-  color: #fff;
+  color: #D0CBB6;
 }
 
 .recent-posts ul li {
@@ -2414,8 +2414,8 @@ p.product-price span {
 a.cart-btn {
   font-family: 'Poppins', sans-serif;
   display: inline-block;
-  background-color: #ebdacc;
-  color: #000000;
+  background-color: #000000;
+  color: #ebdacc;
   padding: 10px 20px;
 }
 
